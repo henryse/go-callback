@@ -1,4 +1,3 @@
-// Copied from: https://github.com/rogpeppe/rog-go/blob/master/exp/callback/init.go
 package callback
 
 //#include "callback.h"

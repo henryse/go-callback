@@ -1,5 +1,3 @@
-// Copied from: https://github.com/rogpeppe/rog-go/blob/master/exp/callback/callback.c
-
 #include <pthread.h>
 #include <stdlib.h>
 #include "callback.h"
